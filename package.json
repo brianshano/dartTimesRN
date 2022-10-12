@@ -12,8 +12,8 @@
   "dependencies": {
     "@eva-design/eva": "^1.4.0",
     "@ui-kitten/components": "^4.4.0",
-    "appcenter": "^2.6.1",
-    "appcenter-crashes": "^2.6.1",
+    "appcenter": "^4.4.5",
+    "appcenter-crashes": "^4.4.5",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-snap-carousel": "^3.8.4",
